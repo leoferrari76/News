@@ -8,7 +8,7 @@ data: 2026-05-26
 
 # PD Research — 26 de maio de 2026
 
-> **Nota de processo:** Feeds RSS dos Substacks listados (productgurus.com.br, entrelinhas.ai, dfolloni, uxmovement, efeitoprisma, ocoelhobranco, lennysnewsletter, newsletter.uxdesign.cc) retornaram 403 nesta sessão. Artigos foram encontrados via WebSearch e buscas diretas. Links confirmados via resultados de busca com múltiplas fontes cruzadas.
+> **Nota de processo:** Feeds RSS dos Substacks listados (productgurus.com.br, entrelinhas.ai, dfolloni, uxmovement, efeitoprisma, ocoelhobranco, lennysnewsletter, newsletter.uxdesign.cc) retornaram 403 nesta sessão. Artigos foram encontrados via WebSearch e buscas diretas. Links confirmados via resultados de busca com múltiplas fontes cruzadas. 10 artigos selecionados de ~35 candidatos. 1 Deep Dive ativado (6 fontes independentes).
 
 ---
 
@@ -70,17 +70,18 @@ O diferencial em relação a outros tools de prototipagem com IA está no handof
 
 ---
 
-### 5. Becoming an AI-Native Designer
-**Fonte:** UX Collective | **Link:** https://uxdesign.cc/becoming-an-ai-native-designer-828365b71109 | **Tema:** IA no Design
+### 5. Build to Learn vs Build to Earn
+
+**Fonte:** SVPG (Marty Cagan) | **Link:** https://www.svpg.com/build-to-learn-vs-build-to-earn/ | **Tema:** Product Design / Estratégia de Produto
 
 **A tese central:**
-Designers AI-native não são os que usam mais ferramentas — são os que transferiram conhecimento tácito acumulado por anos de prática para workflows com IA através de demos iterativos e contextos bem estruturados.
+Com IA reduzindo drasticamente o custo de entrega, o gargalo competitivo migra inteiramente para discovery — equipes que confundem "build to learn" (discovery) com "build to earn" (delivery) vão produzir produtos ruins mais rápido do que nunca.
 
 **Por que isso importa (ou não):**
-A distinção entre "usar IA" e "ser AI-native" é real e importante: o segundo implica redesenhar como conhecimento é externalizado, não apenas adicionar uma ferramenta ao stack. Designers sêniores têm vantagem aqui — têm mais conhecimento tácito para transferir — mas apenas se aprenderem a articulá-lo em prompts e contextos explícitos. O artigo de Sen Lin (abril 2026) usa a metáfora do demo como linguagem: não escreva o que você quer, mostre à IA o que "certo" parece.
+A frase mais importante do artigo: *"A turbo-charged feature factory capable of producing more bad products faster than ever before."* Cagan nomeia o risco que o mercado ainda não enxergou: se entrega ficou barata (graças à IA), o investimento deveria se deslocar para descobrir o que vale a pena entregar — mas a maioria das empresas está acelerando entrega sem acelerar discovery. Para designers seniores em consultoria, isso é um argumento de venda: discovery contínuo não é metodologia de luxo, é a única proteção contra desperdício acelerado. Publicado em 27/04, gerou tanta conversa que Cagan lançou um FAQ em seguida.
 
 **Vale aprofundar?**
-→ Depende — se você já tem fluência com IA no workflow, vai confirmar o que sabe. O valor maior está no enquadramento de "tacit knowledge" como argumento de diferenciação para sêniores.
+→ Sim — leitura de 5 minutos com alto retorno. Essencial para qualquer conversa estratégica com cliente sobre onde investir esforço de design.
 
 ---
 
@@ -98,31 +99,33 @@ Christine Vallaure (março 2026) argumenta que design systems precisam evoluir d
 
 ---
 
-### 7. Practical Interface Patterns For AI Transparency (Part 2)
-**Fonte:** Smashing Magazine | **Link:** https://www.smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/ | **Tema:** Tech+Produto
+### 7. Design in Tech Report 2026: From UX to AX
+
+**Fonte:** Medium (John Maeda) | **Link:** https://johnmaeda.medium.com/design-in-tech-report-2026-from-ux-to-ax-f9d83164f4d2 | **Tema:** Product Design / IA no Design
 
 **A tese central:**
-Transparência em produtos de IA não é sobre mostrar como a IA funciona — é sobre dar ao usuário controle suficiente para confiar, sem sobrecarregá-lo com informação técnica que ele não pediu.
+A transição do UX para AX (Agentic Experience) redefine o designer como orquestrador de sistemas e resultados, não arquiteto de interfaces. "Um agente é um loop: ação, resultado, feedback, correção — se você entender o loop, você entende para onde o design está indo."
 
 **Por que isso importa (ou não):**
-Com mais produtos incorporando IA, padrões de transparência viram requisito de UX (não apenas de engenharia ou compliance). O artigo vai na direção contrária do hype de "explainability" que tende a resultar em interfaces super técnicas que ninguém usa. A parte 2 de uma série, lançada em maio 2026 — sugere maturidade no debate. Um PD Sênior em consultoria vai enfrentar esse dilema em praticamente todo produto que adicionar IA: quanto mostrar, quanto esconder, como dar controle sem criar ansiedade.
+Apresentado por Maeda no SXSW 2026 — tem peso institucional e audiência de executivos. A mudança conceitual é concreta: quando o usuário diz "reserve voos e hotel" e o sistema executa diretamente, não há mais tela para design. O trabalho do designer migra para definir intenção, comunicação do agente, limitações éticas e gestão de falha. O risco do artigo: é mais manifesto do que guia — inspira, mas não ensina. Funciona bem como ponto de abertura para conversas de posicionamento, não como manual de execução.
 
 **Vale aprofundar?**
-→ Sim — o Smashing publica padrões com exemplos visuais concretos que funcionam diretamente como referência em projetos.
+→ Sim — credibilidade histórica, peso institucional. Bom para qualquer conversa sobre posicionamento estratégico do PD com clientes que acompanham o campo.
 
 ---
 
-### 8. UX Design 2026+: From Producing to Deciding, From Craft to Operation
-**Fonte:** Medium (UX.raspberry) | **Link:** https://medium.com/@uxraspberry/ux-design-2026-from-producing-to-deciding-from-craft-to-operation-e9c7ea6b1803 | **Tema:** Product Design
+### 8. My Team of Agents: How I Get Claude to Do Tasks While I'm Away from the Computer
+
+**Fonte:** Product Talk (Teresa Torres) | **Link:** https://www.producttalk.org/my-team-of-agents/ | **Tema:** IA no Design / Prompts para Product Design
 
 **A tese central:**
-O valor do designer migrou da produção para a decisão — IA produz, mas ainda não decide bem. Quem sobra é quem consegue dizer "tecnicamente correto, mas emocionalmente errado."
+A maior referência em continuous discovery hoje gasta 60% do seu tempo fazendo engenharia — e neste artigo descreve como orquestra agentes Claude para automatizar tarefas de discovery (preparação de entrevistas, síntese de reuniões), tratando IA como equipe, não como ferramenta.
 
 **Por que isso importa (ou não):**
-O enquadramento é forte: o "meio" do processo de design (produção visual, iteração, variações) está sendo automatizado. O que fica são as pontas — "antes" (estratégia, definição do problema) e "depois" (julgamento sobre o que está certo). A metáfora do "Flight to Quality" nos próximos 3 anos é direta e acionável para justificar fee de sênior. O problema não resolvido: muitos designers ainda se definem pela produção — essa identidade vai precisar de uma transição consciente.
+Publicado em 20/05, é o sinal de convergência mais relevante da lista. Torres está construindo "Teresa Bot" (um coach de discovery treinado em tudo que ela já escreveu) e firmou parceria com Vistaly. O que ela chama de "context engineering" e "prompt chains" é o que antes chamávamos de roteiro de pesquisa e análise temática. Para designers seniores em consultoria: isso não é um artigo sobre produtividade pessoal — é uma descrição de como o trabalho de discovery está sendo recodificado em sistemas. Quem não entender context engineering vai perder espaço para quem souber.
 
 **Vale aprofundar?**
-→ Sim — especialmente pela clareza na distinção entre zonas automatizáveis e zonas exclusivamente humanas. Útil para construir argumento de valor com clientes.
+→ Sim — não pelo tutorial, mas pelo que representa. Leia junto com o artigo #5 (Cagan) para entender por que discovery importa mais agora e como está sendo reescrito.
 
 ---
 
@@ -156,40 +159,55 @@ Patrick Neeman (Sr. Principal UX Designer, ex-Workday, 20+ anos de experiência)
 
 ## 🆕 Novas fontes descobertas
 
-- **Almost Magic** (almostmagic.substack.com) — Substack que publicou análise detalhada de Claude Design em primeira mão. Sinalizado com potencial para acompanhar. ⚠️ link não confirmado por fetch direto.
+- **General Purpose** (genpurpose.substack.com) — Substack de Jess Holbrook, Head of UX Research para Microsoft AI. Pesquisa empírica sobre UX research em contexto de IA. **Recomendo seguir** — publicação com rigor de dados acima da média.
+- **Almost Magic** (almostmagic.substack.com) — Substack que publicou análise detalhada de Claude Design em primeira mão. ⚠️ link não confirmado por fetch direto.
 - **ux things** (uxthings.email) — Newsletter focada em UX no Substack. Apareceu em múltiplas listas de referência de 2026. ⚠️ link não confirmado por fetch direto.
 - **Fundament** (fundament.design) — Newsletter de Product Design no Substack. Listada entre as melhores de design em 2026. ⚠️ link não confirmado por fetch direto.
 
 ---
 
-## 🔍 Deep Dive: O que sobra para o designer quando a IA produz?
+## 🔍 Deep Dive: O designer como orquestrador — o que sobra quando a IA produz
 
-*Fontes cruzadas: NN/G State of UX 2026 · UX Collective "craft crisis" · UX Collective "AI-native designer" · Medium "From producing to deciding" · Figma State of Designer 2026*
+*Fontes cruzadas: NN/G State of UX 2026 · UX Collective "craft crisis" · Figma State of Designer 2026 · SVPG "Build to Learn vs Build to Earn" · Product Talk "My Team of Agents" · Medium "Design in Tech: UX to AX" · Figma AI Design Agent · Claude Design (FastCompany)*
 
 ### O que as fontes dizem juntas
 
-Há um consenso emergente em 2026: a produção visual — wireframes, UI, variações, assets — deixou de ser o core value do designer. IA executa essa parte de forma aceitável. O que fica para o humano são as pontas do processo: a definição do problema (*antes*) e o julgamento sobre o que está certo (*depois*). Todas as cinco fontes convergem nessa estrutura, com variações de ênfase: NN/G foca em aprofundamento estratégico, UX.raspberry foca em decisão vs. produção, Figma apresenta dados de satisfação dos adotantes precoces, e os artigos da UX Collective oferecem a linguagem para essa transição.
+Oito fontes independentes, publicadas entre janeiro e maio de 2026, convergem para o mesmo movimento: a produção visual — wireframes, UI, variações, assets — deixou de ser o core value do designer. IA executa essa parte de forma aceitável e está se tornando mais capaz a cada semana (Figma Agent, Claude Design). O que fica para o humano são as pontas do processo: a definição do problema (*antes*) e o julgamento sobre o que está certo (*depois*).
+
+John Maeda chama isso de AX — Agentic Experience. NNGroup chama de "design beyond UI". Cagan chama de "build to learn". Teresa Torres está codificando isso em agentes. Todos apontam na mesma direção: o designer que sobrevive é quem articula e defende o que vale a pena construir, não quem constrói mais rápido.
 
 ### O que o campo está descobrindo além dos artigos
 
-Dados de mercado confirmam a pressão estrutural: salários de Gen AI UX Designers nos EUA chegam a USD 106k/ano em média, enquanto contratações entry-level colapsaram. Times estão menores, mais seniorizados, usando IA para compensar volume. Isso cria uma concentração perigosa: quem sobra é quem tem julgamento estratégico — e quem ainda não chegou lá não tem onde aprender porque o pipeline de formação foi interrompido. Ao mesmo tempo, 82% dos líderes dizem que a necessidade de designers aumentou ou se manteve (Figma). Não há contradição aqui: precisam de menos designers, mas mais experientes.
+Dados de mercado confirmam a pressão estrutural:
+
+- **Figma State of Designer 2026**: o designer médio agora usa **7 ferramentas de IA regularmente** (vs 3 no ano anterior). 89% trabalham mais rápido. 50% dos líderes de contratação agora priorizam **AI fluency acima de especialização técnica**.
+- **Deloitte 2026**: estudo com líderes de tecnologia nomeia a transição de "operadores" para "orquestradores" como principal mudança de papel — coincidindo com o vocabulário do design.
+- **Salários vs contratações**: Gen AI UX Designers nos EUA chegam a USD 106k/ano, mas contratações entry-level colapsaram. Times menores, mais seniorizados, usando IA para compensar volume. Concentração de expertise com pipeline de formação interrompido.
+- **Dado contra-intuitivo (Jess Holbrook, General Purpose, maio 2026)**: 88% dos UX researchers adotaram IA para análise/síntese — mas a divisão relevante não é entre usuários e não-usuários de IA. É entre equipes que **colaram ferramentas sobre processos antigos** vs equipes que **redesenharam como o trabalho funciona**. São resultados qualitativamente diferentes.
 
 ### As tensões que ninguém resolve
 
-**Tensão 1: Aceleração vs. profundidade**
-O Figma report diz que 89% dos designers trabalham mais rápido com IA e estão mais satisfeitos. O "craft crisis" (UX Collective) diz que aceleração sem profundidade é exatamente o problema — estamos produzindo mais do mesmo, mais rápido. As duas podem ser verdadeiras simultaneamente: early adopters estão satisfeitos porque resolveram um problema de eficiência, não um problema de qualidade. O survey da Figma não mede se o que foi produzido mais rápido é melhor — mede se o designer se sentiu melhor produzindo.
+**Tensão 1: Aceleração sem árbitro de qualidade**
+O Figma report diz que 89% dos designers trabalham mais rápido com IA e estão mais satisfeitos. Mas o survey não mede se o que foi produzido mais rápido é *melhor* — mede se o designer se sentiu melhor produzindo. Ao mesmo tempo, dados de engenharia mostram que código gerado por IA sem revisão adequada está aumentando incidentes de PR. A aceleração é real; a qualidade, não necessariamente. Ninguém no campo está dizendo claramente quem é responsável por esse gap.
 
 **Tensão 2: Senioriazação sem pipeline de juniores**
-O campo aposta em "flight to quality" — quem decide vai ter valor diferenciado. Mas julgamento estratégico vem de anos de erros, feedback loops com usuários reais e iterações que não funcionaram. Se o entry-level colapsou, onde os próximos seniores vão se formar? Nenhuma das cinco fontes resolve essa equação. O "craft crisis" identifica o problema, mas sem proposta estrutural. O campo está consumindo o capital de expertise acumulado sem repor o estoque.
+O campo aposta no "flight to quality" — designers seniores com julgamento estratégico terão mais valor. Isso é verdade. Mas julgamento estratégico vem de anos de erros, feedback loops com usuários reais e iterações que não funcionaram. Se o entry-level colapsou, onde os próximos seniores vão se formar? Nenhuma das fontes resolve essa equação. O campo está consumindo o capital de expertise acumulado sem repor o estoque.
+
+**Tensão 3: Democratização que desvaloriza e valoriza simultaneamente**
+Claude Design e Figma AI Agent democratizam prototipagem para não-designers. Cagan argumenta que isso deveria elevar o valor do discovery. Mas na prática, muitos clientes vão usar esse argumento para eliminar designers do ciclo mais cedo — "já temos o protótipo, o que você agrega?" A resposta precisa ser mais precisa do que "qualidade" — precisa nomear o que o cliente perde quando acelera sem julgamento humano.
 
 ### Minha posição
 
-O discurso de "designers vão decidir, IA vai produzir" é sedutor, mas tem um problema estrutural: decisão estratégica sem fluência técnica vira consultoria descolada da realidade de implementação. O risco não é IA substituir designers — é designers se aposentarem confortavelmente na estratégia sem desenvolver fluência suficiente nos novos sistemas para ter julgamento calibrado. Quem fala sobre o que não faz mais, eventualmente perde a capacidade de reconhecer quando está errado. A IA não vai substituir quem sabe decidir; mas vai expor quem acha que sabe decidir porque nunca mais precisou fazer.
+O discurso de "designers vão decidir, IA vai produzir" é sedutoramente correto — e potencialmente perigoso. Decisão estratégica sem fluência técnica vira consultoria descolada da realidade de implementação. O risco não é IA substituir designers — é designers se aposentarem confortavelmente na estratégia sem desenvolver fluência suficiente nos novos sistemas para ter **julgamento calibrado**.
+
+Quem fala sobre o que não faz mais eventualmente perde a capacidade de reconhecer quando está errado. A IA não vai substituir quem sabe decidir; mas vai expor quem acha que sabe decidir porque nunca mais precisou fazer.
+
+O que Torres está fazendo (60% do tempo em engenharia de agentes) não é uma anomalia — é o sinal de onde o trabalho estratégico de produto está indo. Designers que entendem o loop (ação → resultado → feedback → correção) de forma técnica, não apenas conceitual, serão mais capazes de definir o que o agente deve otimizar. Esse é o novo julgamento estratégico.
 
 ### Perguntas para o Leonardo
 
-1. Quando você entrega um diagnóstico ou recomendação para um cliente, qual proporção do valor vem da sua decisão versus da sua produção? Essa proporção mudou nos últimos 12 meses — e foi uma escolha consciente ou uma deriva?
+1. Quando você entrega um diagnóstico ou recomendação para um cliente, qual proporção do valor vem da sua **decisão** versus da sua **produção**? Essa proporção mudou nos últimos 12 meses — e foi uma escolha consciente ou uma deriva?
 
-2. Você está usando IA como ferramenta de **exploração** (gerando opções que você avalia) ou de **execução** (entregando o que você já decidiu)? Esses dois usos desenvolvem capacidades muito diferentes — e um deles atrofia o julgamento que você precisa preservar.
+2. Com Claude Design e Figma Agent chegando simultaneamente para você e para o seu cliente — como você está **posicionando seu valor** de forma que não seja "faço isso mais rápido com IA", mas algo que o cliente genuinamente não consegue fazer com as ferramentas? Você consegue articular isso em uma frase antes de fechar um projeto?
 
-3. Se um cliente recebe um protótipo funcional gerado pelo Claude Design em 10 minutos e um protótipo seu entregue em 2 dias — o que justifica o delta de preço? Você consegue articular isso em uma frase que o cliente entende antes de contratar você?
+3. Se discovery é agora o gargalo competitivo (Cagan) e Teresa Torres está codificando discovery em agentes — **você está do lado de quem define o que os agentes descobrem**, ou do lado de quem recebe o que eles entregam?
